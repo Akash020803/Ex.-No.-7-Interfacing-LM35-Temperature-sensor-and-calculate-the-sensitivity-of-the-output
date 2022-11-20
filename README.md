@@ -1,6 +1,5 @@
 ### Ex. No. :7
 
-## Date: 20/11/22
 
 ### Interfacing LM35 Temperature sensor and calculate the sensitivity of the output
 
